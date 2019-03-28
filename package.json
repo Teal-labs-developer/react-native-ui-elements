@@ -1,0 +1,22 @@
+{
+  "name": "react-native-demo-library",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "react-native": "^0.57.4",
+    "react-native-collapsible": "^1.2.1",
+    "lodash": "^4.17.11"
+  },
+  "peerDependencies": {
+    "react-native": "^0.41.2"
+  }
+}
