@@ -1,6 +1,6 @@
 import React from "react";
 import Svg, { G, Path } from "react-native-svg";
-import { colors } from "js/UIElements/colors";
+import { colors } from "../colors";
 
 const LikeEmptySvg = props => {
   return (

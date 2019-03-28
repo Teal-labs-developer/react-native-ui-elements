@@ -1,5 +1,5 @@
 import React from "react";
-import { colors } from "js/UIElements/colors";
+import { colors } from "../colors";
 import Svg, { G, Path, Circle } from "react-native-svg";
 
 const LeftChevronSvg = props => {

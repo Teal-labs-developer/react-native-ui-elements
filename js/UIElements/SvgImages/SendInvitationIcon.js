@@ -1,6 +1,6 @@
 import React from "react";
 import PropTypes from "prop-types";
-import { colors } from "js/UIElements/colors";
+import { colors } from "../colors";
 import Svg, { G, Path, Rect } from "react-native-svg";
 
 const SendInvitationIcon = props => {

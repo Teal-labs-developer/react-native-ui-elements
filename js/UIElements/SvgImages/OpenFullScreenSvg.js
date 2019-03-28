@@ -1,7 +1,7 @@
 import React from "react";
 import PropTypes from "prop-types";
 import Svg, { G, Path } from "react-native-svg";
-import { colors } from "js/UIElements/colors";
+import { colors } from "../colors";
 
 const OpenFullScreenSvg = props => {
   return (

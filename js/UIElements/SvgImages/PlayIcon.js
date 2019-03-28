@@ -1,7 +1,7 @@
 import React from "react";
 import PropTypes from "prop-types";
 import Svg, { G, Path, Rect } from "react-native-svg";
-import { colors } from "js/UIElements/colors";
+import { colors } from "../colors";
 
 const PlayIcon = props => {
   return (
